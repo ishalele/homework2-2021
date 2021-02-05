@@ -1,7 +1,7 @@
 body {
     background-color: #0000;
-    color: #ffffff;
-    font-family: "times new roman", "sans-serif";
+    color: hsl(0, 0%, 100%);
+    font-family: "Times New Roman", sans-serif;
 }
 
 h1{
@@ -33,18 +33,18 @@ div{
 }
 
 #red{
-    background-color: #ff000f;
+    background: #ff000f;
     text-align: right;
 }
 
 #blue{
-    background-color: #000fff;
+    background #000fff;
     text-align: left;
 
 }
 
 #yellow{
-    background-color: #ffff00;
+    background: #ffff00;
     text-align: right;
 }
 
@@ -58,7 +58,7 @@ div{
 }
 
 #green{
-    background-color: #ffff00;
+    background: #ffff00;
     text-align: left;
 }
 
