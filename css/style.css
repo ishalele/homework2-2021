@@ -1,6 +1,6 @@
 body {
     background: #000000;
-    color: hsl(0, 0%, 100%);
+    color: white;
     font-family: "Times New Roman", sans-serif;
 }
 
@@ -58,7 +58,7 @@ div{
 }
 
 #green{
-    background: #00ff00;
+    background: green;
     text-align: left;
 }
 
