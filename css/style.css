@@ -44,17 +44,17 @@ div{
 }
 
 #yellow{
-    background: #ffff00;
+    background: yellow;
     text-align: right;
 }
 
 #yellow h2{
-    color:  #000000;
+    color: black;
     text-shadow: 4px 4px 2px #c7e2c7;
 }
 
 #yellow p{
-    color:  #000000;
+    color:  black;
 }
 
 #green{
